@@ -1,0 +1,121 @@
+,cue,target,objectSentence,objectImage,trialType,isMatch,trialList,trialIndex,shapesentence,shapeImage,shapeSentence
+0,There was corn in the cooking pot.,corn,corn,corn,experimental,n,4,1,b,a,
+1,There was apple pie on the plate.,applepie,apple pie,apple pie,experimental,n,4,2,b,a,
+2,There was a towel on the rack.,towelfloor,towel,towel,experimental,n,4,3,b,a,
+3,There was an owl in the sky.,owlsit,owl,owl,experimental,n,4,4,b,a,
+4,There was tomato on the pizza.,tomato,tomato,tomato,experimental,n,4,5,b,a,
+5,There was a book on the photocopier.,book,book,book,experimental,n,4,6,b,a,
+6,There was a lamp on the table.,lampfloor,lamp,lamp,experimental,n,4,7,b,a,
+7,There was a sailboat on the lake.,boatnosail,sailboat,sailboat,experimental,n,4,8,b,a,
+8,There was squid in the pasta.,squid,squid,squid,experimental,n,4,9,b,a,
+9,There was mushroom in the soup.,mushroom,mushroom,mushroom,experimental,n,4,10,b,a,
+10,There was ice in the gutter.,ice,ice,ice,experimental,n,4,11,b,a,
+11,There was a shirt on the shelf.,shirthanging,shirt,shirt,experimental,n,4,12,b,a,
+12,There was a staple in the article.,staplemachine,staple,staple,experimental,n,4,13,b,a,
+13,There was a zodiac in the garage.,zodiac,zodiac,zodiac,experimental,n,4,14,b,a,
+14,There was an umbrella in her hand.,umbrellabag,umbrella,umbrella,experimental,n,4,15,b,a,
+15,There was a shoelace in the package.,shoelace,shoelace,shoelace,experimental,y,4,16,,a,a
+16,There was a walnut on the tree.,walnut,walnut,walnut,experimental,y,4,17,,a,a
+17,There was cheesecake for the party.,cheesecake,cheesecake,cheesecake,experimental,y,4,18,,a,a
+18,There was a swiss knife in his pocket.,swissknifeclosed,swissknife,swissknife,experimental,y,4,19,,a,a
+19,There was a lobster in the sea.,lobster,lobster,lobster,experimental,y,4,20,,a,a
+20,There was a lime in the produce section.,lime,lime,lime,experimental,y,4,21,,a,a
+21,There was a hose on the wall.,hosewall,hose,hose,experimental,y,4,22,,a,a
+22,There was a hockey player on the ice.,hockeyice,hockey,hockey,experimental,y,4,23,,a,a
+23,There was a scarf on the rack.,scarfhanging,scarf,scarf,experimental,y,4,24,,a,a
+24,There was a pumpkin on the cart.,pumpkin,pumpkin,pumpkin,experimental,y,4,25,,a,a
+25,There was a garbage bag in the cupboard.,garbagebagempty,garbage,garbage,experimental,y,4,26,,a,a
+26,There was an eagle in the nest.,eaglesit,eagle,eagle,experimental,y,4,27,,a,a
+27,There was an avocado in the pantry.,avocado,avocado,avocado,experimental,y,4,28,,a,a
+28,There was paint in the store.,paintcan,paint,paint,experimental,y,4,29,,a,a
+29,There was a tissue in the box.,tissue,tissue,tissue,experimental,y,4,30,,a,a
+30,There was a balloon in the pack.,balloon,balloon,balloon,experimental,n,4,31,,b,a
+31,There was a match in the box.,matchburned,match,match,experimental,n,4,32,,b,a
+32,There was spaghetti in the box.,spaghetticooked,spaghetti,spaghetti,experimental,n,4,33,,b,a
+33,There was a coat on the rack.,coatfloor,coat,coat,experimental,n,4,34,,b,a
+34,There was a fish in the pond.,fishoven,fish,fish,experimental,n,4,35,,b,a
+35,There was an airplane in the hangar.,airplanesky,airplane,airplane,experimental,n,4,36,,b,a
+36,There was tinfoil in the drawer.,foilcrcumpled,foil,foil,experimental,n,4,37,,b,a
+37,There was a carrot in the garden.,carrotsliced,carrot,carrot,experimental,n,4,38,,b,a
+38,There was a banana on the counter.,bananacut,banana,banana,experimental,n,4,39,,b,a
+39,There was a goose in the field.,goose,goose,goose,experimental,n,4,40,,b,a
+40,There was tape on the shelf.,tape,tape,tape,experimental,n,4,41,,b,a
+41,There was cucumber in the fridge.,cucumber,cucumber,cucumber,experimental,n,4,42,,b,a
+42,There was bread in the bakery window.,breadtoast,bread,bread,experimental,n,4,43,,b,a
+43,There was a cigarette in the box.,cigarettebutt,cigarette,cigarette,experimental,n,4,44,,b,a
+44,There was sugar on the table.,sugar,sugar,sugar,experimental,n,4,45,,b,a
+45,There was a newspaper on the rack.,newspaperrack,newspaper,newspaper,experimental,y,4,46,,b,b
+46,There was a horse in the arena.,horserunning,horse,horse,experimental,y,4,47,,b,b
+47,There was ketchup on the plate.,ketchup,ketchup,ketchup,experimental,y,4,48,,b,b
+48,There was apple in the salad.,applewedges,apple,apple,experimental,y,4,49,,b,b
+49,There was pineapple on the skewer.,pineapplechunk,pineapple,pineapple,experimental,y,4,50,,b,b
+50,There was wool in the sweater.,woolknit,wool,wool,experimental,y,4,51,,b,b
+51,There was a map on the wall.,mapwall,map,map,experimental,y,4,52,,b,b
+52,There was onion in the batter.,onionslice,onion,,experimental,y,4,53,,b,b
+53,There was wheat in the mill.,wheatpieces,wheat,wheat,experimental,y,4,54,,b,b
+54,There was lemon in the drink.,lemonslice,lemon,lemon,experimental,y,4,55,,b,b
+55,There was soap in the bath.,soaplather,soap,soap,experimental,y,4,56,,b,b
+56,There was chicken in the oven.,chickenoven,chicken,chicken,experimental,y,4,57,,b,b
+57,There was watermelon in the bowl.,watermelonslice,watermelon,watermelon,experimental,y,4,58,,b,b
+58,There was an egg on the plate.,eggpan,egg,egg,experimental,y,4,59,,b,b
+59,There was a frog in the pool.,frogswim,frog,frog,experimental,y,4,60,,b,b
+60,There was a monkey on the beach.,pawn,monkey,pawn,filler,NA,4,61,,NA,NA
+61,There was a tiger in the steppe.,elephant,tiger,elephant,filler,NA,4,62,,NA,NA
+62,There was a tree on the trail.,mussel,tree,mussel,filler,NA,4,63,,NA,NA
+63,There was a battery in the phone.,screw,phone,screw,filler,NA,4,64,,NA,NA
+64,There was a doll on the bench.,crate,doll,crate,filler,NA,4,65,,NA,NA
+65,There was a pen in her satchel.,dice,pen,dice,filler,NA,4,66,,NA,NA
+66,There was a hill in the village.,scissors,hill,scissors,filler,NA,4,67,,NA,NA
+67,There was a tent in the shadow.,peanut,tent,peanut,filler,NA,4,68,,NA,NA
+68,There was a bush in the meadow.,hairpin,bush,hairpin,filler,NA,4,69,,NA,NA
+69,There was a yard by the kindergarten.,penguin,yard,penguin,filler,NA,4,70,,NA,NA
+70,There was a skateboard on the ground.,bus,skateboard,bus,filler,NA,4,71,,NA,NA
+71,There was a pencil in the cup.,hairdryer,pencil,hairdryer,filler,NA,4,72,,NA,NA
+72,There was a polar bear in the snow.,truck,polar bear,track,filler,NA,4,73,,NA,NA
+73,There was a calculator on the desk.,comb,calculator,comb,filler,NA,4,74,,NA,NA
+74,There was a statue in the park.,button,statue,button,filler,NA,4,75,,NA,NA
+75,There was a kayak in the river.,lamppost,kayak,lamppost,filler,NA,4,76,,NA,NA
+76,There was a lipstick in the purse.,castle,lipstick,castle,filler,NA,4,77,,NA,NA
+77,There was fire on campus.,papaya,fire,papaya,filler,NA,4,78,,NA,NA
+78,There was a pepper in the pastry.,padlock,pepper,padlock,filler,NA,4,79,,NA,NA
+79,There was a hammer in the basement.,cow,hammer,cow,filler,NA,4,80,,NA,NA
+80,There was a mannequin in the shop.,axe,mannequin,axe,filler,NA,4,81,,NA,NA
+81,There was an ornament on the skirt.,eraser,ornament,eraser,filler,NA,4,82,,NA,NA
+82,There was a thumbtack on the board.,mango,thumbtack,mango,filler,NA,4,83,,NA,NA
+83,There was a surfboard in the river.,cookinggrill,surfboard,cookinggrill,filler,NA,4,84,,NA,NA
+84,There was a cactus in the pot.,closet,cactus,closet,filler,NA,4,85,,NA,NA
+85,There was a chair in the bedroom.,cauliflower,chair,cauliflower,filler,NA,4,86,,NA,NA
+86,There was a blueberry in the cereal.,cushion,blueberry,cushion,filler,NA,4,87,,NA,NA
+87,There was a pot on the stove.,rose,pot,rose,filler,NA,4,88,,NA,NA
+88,There was a snake in the grass.,plunger,snake,plunger,filler,NA,4,89,,NA,NA
+89,There was raddish in the dish.,qtip,raddish,qtip,filler,NA,4,90,,NA,NA
+90,There was football in the stadium.,apartment,football,apartment,filler,NA,4,91,,NA,NA
+91,There was a wrench in the toolbox.,tambourine,wrench,tambourine,filler,NA,4,92,,NA,NA
+92,There was a goat in the distance.,dandelion,goat,dandelion,filler,NA,4,93,,NA,NA
+93,There was chimney on the roof.,fountain,chimney,fountain,filler,NA,4,94,,NA,NA
+94,There was a mug on the coaster.,grater,mug,grater,filler,NA,4,95,,NA,NA
+95,There was a bicycle in the driveway.,acorn,bicycle,acorn,filler,NA,4,96,,NA,NA
+96,There was a pyramid by the museum.,couch,pyramid,couch,filler,NA,4,97,,NA,NA
+97,There was milk in the jar.,strawberry,milk,strawberry,filler,NA,4,98,,NA,NA
+98,There was a plug by the door.,bat,plug,bat,filler,NA,4,99,,NA,NA
+99,There was a carriage on the highway.,orange,carriage,orange,filler,NA,4,100,,NA,NA
+100,There was salt on the table.,shed,salt,shed,filler,NA,4,101,,NA,NA
+101,There was a cork in the bottle.,clock,cork,clock,filler,NA,4,102,,NA,NA
+102,There was a flower in the vase.,squeegee,flower,squeegee,filler,NA,4,103,,NA,NA
+103,There was a deck in the boardgame.,church,deck,church,filler,NA,4,104,,NA,NA
+104,There was a whistle in the gym.,safetypin,whistle,safetypin,filler,NA,4,105,,NA,NA
+105,There was a hippo in the zoo.,crane,hippo,crane,filler,NA,4,106,,NA,NA
+106,There was a mouse in the trap.,wateringcan,mouse,wateringcan,filler,NA,4,107,,NA,NA
+107,There was a cap on the head.,car,cap,car,filler,NA,4,108,,NA,NA
+108,There was a chessboard in the classroom.,bridge,chessboard,bridge,filler,NA,4,109,,NA,NA
+109,There was a kettle in the kitchen.,measuringtape,kettle,measuringtape,filler,NA,4,110,,NA,NA
+110,There was a blanket in the armchair.,pan,blanket,pan,filler,NA,4,111,,NA,NA
+111,There was a mayonnaise in the sandwich.,tweezers,mayonnaise,tweezers,filler,NA,4,112,,NA,NA
+112,There was a head on the neck.,pinecone,head,pinecone,filler,NA,4,113,,NA,NA
+113,There was a skier in the mountain.,mangocut,skier,mangocut,filler,NA,4,114,,NA,NA
+114,There was a lounge in the garden.,racquetballracket,lounge,racquetballracket,filler,NA,4,115,,NA,NA
+115,There was a seal in the cove.,brush,seal,brush,filler,NA,4,116,,NA,NA
+116,There was a pitcher in the bar.,spraycan,pitcher,spraycan,filler,NA,4,117,,NA,NA
+117,There was a dart in his hand.,cheesslice,dart,cheesslice,filler,NA,4,118,,NA,NA
+118,There was a guitar on the stage.,candle,guitar,candle,filler,NA,4,119,,NA,NA
+119,There was a cottage in the valley.,candy,,candy,filler,NA,4,120,,NA,NA
